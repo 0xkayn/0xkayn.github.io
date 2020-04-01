@@ -1,5 +1,5 @@
 ---
-title: /blog
+title: blog
 layout: blogbase
 permalink: /blog
 ---
