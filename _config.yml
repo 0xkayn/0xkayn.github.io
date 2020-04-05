@@ -34,7 +34,8 @@ github_username:  vuggo
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-
+  - jekyll-redirect-from
+  
 blog_nav: 
   - home
   - blog
@@ -45,6 +46,7 @@ header_pages:
   - index.md
   - about.md
   - blog.md
+  - resume.md
 
 collections:
   posts:

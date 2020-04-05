@@ -1,14 +1,15 @@
 ---
-title: etc
+title: ctf
 layout: blogcategory
-permalink: /etc
-redirect_from:    
-    - /etc/etc
-    - /ctf/etc
+permalink: /ctf
+redirect_from:
+    - /ctf/ctf
+    - /etc/ctf
+
 ---
 
 <ul>
-    {% for post in site.categories["etc"] %}
+    {% for post in site.categories["ctf"] %}
     <li>
         {%- assign date_format = "%Y-%m-%d" -%}
         [ {{ post.date | date: date_format }} ] <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>

@@ -8,10 +8,14 @@
 
     {%- include blogheader.html -%}
 
-    {{ content }}
+    <main>
+      {%- include bloglist.html -%}
+    </main>
 
     {%- include footer.html -%}
 
     </div>
   </body>
 </html>
+
+
