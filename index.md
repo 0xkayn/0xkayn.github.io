@@ -2,9 +2,7 @@
 title: home
 layout: default
 permalink: /home
-redirect_from:
-    - /etc/home
-    - /ctf/home
+
 ---
 
 # Lorem ipsum

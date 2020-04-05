@@ -2,9 +2,7 @@
 title: etc
 layout: blogcategory
 permalink: /etc
-redirect_from:    
-    - /etc/etc
-    - /ctf/etc
+
 ---
 
 <ul>

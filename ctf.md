@@ -2,9 +2,7 @@
 title: ctf
 layout: blogcategory
 permalink: /ctf
-redirect_from:
-    - /ctf/ctf
-    - /etc/ctf
+
 
 ---
 
