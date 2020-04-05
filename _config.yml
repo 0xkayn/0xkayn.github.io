@@ -35,10 +35,23 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+blog_nav: 
+  - home
+  - blog
+  - ctf
+  - etc
+
 header_pages:
   - index.md
   - about.md
   - blog.md
+
+collections:
+  posts:
+    permalink: /:categories/:name
+
+    
+      
 
 # Exclude from processing.
 # The following items will not be processed, by default.

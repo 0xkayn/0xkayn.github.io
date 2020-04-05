@@ -3,10 +3,10 @@
  */
 
 :root {
-  --base-color: #DBDBDB;
+  --base-color: rgb(0, 204, 255);
   --primary-color: #A2FC8F;
-  --border: dashed 1px rgba(219, 219, 219, 0.9);
-  --selection-background: rgba(219, 219, 219, 0.99);
+  --border: dashed 1px rgba(255, 255, 255, 0.9);
+  --selection-background: rgba(255, 255, 255, 0.99);
   --selection-text: #000;
   --background-color: #000;
   --text-color: var(--base-color);

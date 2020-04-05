@@ -1,0 +1,11 @@
+{%- assign blog_categories = site.blog_nav -%}
+<header>
+  <div class="menu">
+    <ul>
+      
+      {% for category in blog_categories %}
+        <li><a href="{{ category }}">/{{ category }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</header>

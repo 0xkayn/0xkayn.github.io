@@ -1,7 +1,7 @@
 ---
 title: home
 layout: default
-permalink: /
+permalink: /home
 ---
 
 # Lorem ipsum

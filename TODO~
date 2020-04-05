@@ -1,0 +1,12 @@
+website structure - 
+
+/home
+/posts (blog)
+ - /writeups
+   - /ctf (category: ctf)
+   - /hackthebox (category : htb)
+ - /etc (category: etc)
+
+/projects
+/resume
+/contact
