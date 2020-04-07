@@ -2,8 +2,7 @@
 title: home
 layout: default
 permalink: /home
-redirect_from:
-    - /
+redirect_from: "/"
 ---
 
 # Vuggo
