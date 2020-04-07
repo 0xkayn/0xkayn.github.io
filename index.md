@@ -6,7 +6,7 @@ redirect_from: "/"
 ---
 
 # Vuggo
-
+<br>
 ## Recent Posts
 <ul>
 {% for post in site.posts limit: 5 %}
@@ -16,7 +16,7 @@ redirect_from: "/"
     </li>
     {%- endfor -%}
 </ul>
-
+<br>
 ## Favorite Projects
 
 ## Contact

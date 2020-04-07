@@ -5,11 +5,16 @@ date:   2020-03-23 03:32:01 +0300
 categories: ctf
 ---
 
-## Category: Web
-## Difficulty: Hard
-## Challenge: Mental Math
-## Description : My first web app, check it out! 
+## Category: 
+Web
+## Difficulty: 
+Hard
+## Challenge: 
+Mental Math
+## Description: 
+My first web app, check it out!
 <br>
+## Solution:
 
 The application presents you with a math question and expects an answer. The interesting thing is that it makes an ajax call very often (any time it detects you input something to the box) and looks to see if you have submitted the answer to its question of course you would normally answer the question. When you do, it will accept your answer and spit another one out. It does so like this
 <br>
