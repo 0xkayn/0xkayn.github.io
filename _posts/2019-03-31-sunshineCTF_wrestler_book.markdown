@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title:  "sunshineCTF - Wrestler Book"
-date:   2019-03-31 21:00:00 -0300
+date:   2019-03-31 21:00:00 +2100
 categories: ctf
 ---
 

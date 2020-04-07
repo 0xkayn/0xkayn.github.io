@@ -11,7 +11,7 @@ redirect_from:
 # Vuggo
 <br>
 ## Recent Posts
-<ul>
+<ul>    
 {% for post in site.posts limit: 5 %}
     <li>
         {%- assign date_format = "%Y-%m-%d" -%}
@@ -21,7 +21,7 @@ redirect_from:
 </ul>
 <br>
 ## Favorite Projects
-
+<br>
 ## Contact
 github          Vuggo
 twitter         sachalorian
