@@ -21,14 +21,9 @@ redirect_from:
 </ul>
 <br>
 ## Favorite Projects
+<a href="https://github.com/Vuggo/fc">fc</a>- fixed wing flight controller utilizing arduino
 <br>
 ## Contact
 github          Vuggo
 twitter         sachalorian
 email           vuggoA@gmail.com
-
-
-
-
-
-

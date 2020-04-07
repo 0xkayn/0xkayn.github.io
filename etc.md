@@ -4,7 +4,7 @@ layout: blogcategory
 permalink: /etc
 
 ---
-
+{% if site.categories["etc"].size > 0 %}
 <ul>
     {% for post in site.categories["etc"] %}
     <li>
@@ -13,3 +13,8 @@ permalink: /etc
     </li>
     {%- endfor -%}
 </ul>
+{% else %}
+
+<p>No posts in this category</p>
+
+{% endif %}
