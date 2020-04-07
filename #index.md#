@@ -2,10 +2,7 @@
 title: home
 layout: default
 permalink: /home
-redirect_from: 
-    - "/"
-    - /ctf/home
-    - /etc/home
+redirect_from:g"/"
 ---
 
 # Vuggo
