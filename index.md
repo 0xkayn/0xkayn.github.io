@@ -1,11 +1,8 @@
 ---
 title: home
 layout: default
-permalink: /home
-redirect_from: 
-    - "/"
-    - /ctf/home
-    - /etc/home
+permalink: /
+
 ---
 
 # Vuggo
@@ -21,9 +18,9 @@ redirect_from:
 </ul>
 <br>
 ## Favorite Projects
-<a href="https://github.com/Vuggo/fc">fc</a>- fixed wing flight controller utilizing arduino
+<a href="https://github.com/Vuggo/fc">fc</a> - fixed wing flight controller utilizing arduino
 <br>
 ## Contact
 github          Vuggo
 twitter         sachalorian
-email           vuggoA@gmail.com
+discord         sachalorian#4142

@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title:  "redpwnCTF - Tux Trivia"
-date:   2019-08-17 0:00:00 +0000
+date:   2019-08-17 03:00:00 -0100
 categories: ctf
 ---
 

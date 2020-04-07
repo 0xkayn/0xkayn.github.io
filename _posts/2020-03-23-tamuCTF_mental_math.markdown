@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title:  "tamuCTF - Exploiting Python Eval"
-date:   2020-03-23 03:32:01 +0300
+date:   2020-03-23 03:32:01 -0300
 categories: ctf
 ---
 

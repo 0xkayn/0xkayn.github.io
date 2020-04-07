@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title:  "redpwnCTF - Escaping Two Pyjails"
-date:   2019-08-17 0:00:00 +0000
+date:   2019-08-17 03:00:00 -0300
 categories: ctf
 ---
 ## This post contains two different writeups on escaping python jails (restricted environments built with python)
