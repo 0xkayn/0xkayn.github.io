@@ -18,7 +18,7 @@ I wrote two functions to solve this problem.<br>
 The first function gets takes a country name and searches google for it. After querying google, the script scrapes the results for the capital of the country/state, and then returns it. There were a few edge cases related to googles outputs which are handled in the script!<br>
 After setting this up, I set up communications with the server to read the question, query google, and return the capital to the country. One problem I had was sending requests to google too often (which resulted in a temporary IP ban), so I connected to a VPN and ran the script again, but this time I set up a dictionary which cached all of the queries I already sent, which sped up the script and let me solve the challenge.
 eventually I got a response with: "Here is your flag: flag{TUX_tr1v1A_sh0w+m3st3r3d_:D}"
-
+<br>
 ```python
 import time
 import socket
