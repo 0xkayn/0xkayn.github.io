@@ -1,0 +1,10 @@
+---
+layout: blogpost
+title:  "Hack The Box - Blue" 
+date:   2020-08-02 03:32:01 -0300
+categories: ctf
+---
+## Walkthrough of Hack The Box Blue: 
+CVE MS17-010
+
+<object data="{{ '/assets/pdfs/HTB/blue.pdf' }}" width="700" height="1000" type='application/pdf'></object>

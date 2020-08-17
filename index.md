@@ -20,7 +20,3 @@ permalink: /
 ## Favorite Projects
 <a href="https://github.com/Vuggo/fc">fc</a> - fixed wing flight controller utilizing arduino
 <br>
-## Contact
-github          Vuggo
-twitter         sachalorian
-discord         sachalorian#4142
