@@ -42,7 +42,7 @@ header_pages:
   - index.md
   - about.md
   - blog.md
-  - resume.md
+  - experience.md
 
 collections:
   posts:

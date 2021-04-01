@@ -5,7 +5,7 @@ permalink: /
 
 ---
 
-# Vuggo
+# 0xkayn
 <br>
 ## Recent Posts
 <ul>    
@@ -18,5 +18,5 @@ permalink: /
 </ul>
 <br>
 ## Favorite Projects
-<a href="https://github.com/Vuggo/fc">fc</a> - fixed wing flight controller utilizing arduino
+<a href="https://github.com/0xkayn/fc">fc</a> - fixed wing flight controller utilizing arduino
 <br>
