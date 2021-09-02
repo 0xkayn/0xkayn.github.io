@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: vuggo.sh
+title: mav.sh
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  vuggo.sh - my website for my personal projects and ctf writeups
+  mav.sh - my website for my personal projects and ctf writeups
 baseurl: / # the subpath of your site, e.g. /blog
-url: http://vuggo.sh # the base hostname & protocol for your site, e.g. http://example.com
+url: http://mav.sh # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
@@ -36,6 +36,7 @@ blog_nav:
   - home
   - blog
   - ctf
+  - mavsh
   - etc
 
 header_pages:
