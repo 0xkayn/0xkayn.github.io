@@ -44,7 +44,7 @@ header_pages:
   - about.md
   - blog.md
   - experience.md
-
+  
 collections:
   posts:
     permalink: /:categories/:name          
